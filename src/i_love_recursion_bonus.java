@@ -1,7 +1,7 @@
 //******************************************************************
 //Name: Max Luo
 //Date: 3/12/2022
-//Description: This program reads a text file named input.txt and outputs the cheapest route it takes to traverse through the grid given
+//Description: This program reads a text file named input.txt and outputs the cheapest route it takes to traverse through the grid given 
 //******************************************************************
 import java.io.*;
 
